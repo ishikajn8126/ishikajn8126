@@ -17,5 +17,4 @@ First year B.tech CSE student at Jaypee Institute of Information Technology
 ![Stars](https://img.shields.io/github/stars/itsij?affiliations=COLLABORATOR&&color=green&label=Stars)
 ![](https://komarev.com/ghpvc/?username=itsij&color=blue&label=Profile+Views)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsij&layout=compact&theme=tokyonight)](https://github.com/itsij/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=itsij&count_private=true&theme=tokyonight&hide=stars" align="left" alt="Ishika Jain">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsij&layout=compact&theme=tokyonight)](https://github.com/itsij/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api?username=itsij&count_private=true&theme=tokyonight&hide=stars" align="left" alt="Ishika Jain">
