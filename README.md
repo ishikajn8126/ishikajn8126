@@ -7,7 +7,7 @@ First year B.tech CSE student at Jaypee Institute of Information Technology
 - 🔭 I’m currently working on Web Development and Open source.
 - 🌱 I’m currently learning lots of new stuff✨
 - 👯 I’m looking to collaborate on learning things together. Just ping me up😉
-- 💬 Ask me about CP and Frontend.
+- 💬 Ask me about CPP and Frontend.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Offer me pav bhaji and get your work done😛
 
