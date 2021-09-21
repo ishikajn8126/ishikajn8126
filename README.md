@@ -1,6 +1,6 @@
 ### Hey 👋 Myself Ishika Jain
 
-First year B.tech CSE student at Jaypee Institute of Information Technology
+Second year B.tech CSE student at Jaypee Institute of Information Technology
 
 ### 🧐About Me
 
