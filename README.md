@@ -1,6 +1,6 @@
 ### Hey 👋 Myself Ishika Jain
 
-Second year B.tech CSE student at Jaypee Institute of Information Technology
+Third year B.tech CSE student at Jaypee Institute of Information Technology
 
 ### 🧐About Me
 
@@ -9,7 +9,7 @@ Second year B.tech CSE student at Jaypee Institute of Information Technology
 - 👯 I’m looking to collaborate on learning things together. Just ping me up😉
 - 💬 Ask me about CPP and Frontend.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Offer me pav bhaji and get your work done😛
+- ⚡ Fun fact: On a quest
 
 ### 📈GitHub Stats
 
